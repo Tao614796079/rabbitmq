@@ -8,7 +8,7 @@ import java.util.concurrent.TimeoutException;
 /**
  * Created by Administrator on 2017/4/11.
  */
-public class ReceiveLogsToSave {
+public class ReceiveLogs {
     private static final String EXCHANGE_NAME = "logs";
 
     public static void main(String[] args) throws IOException, TimeoutException {
