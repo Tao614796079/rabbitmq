@@ -1,4 +1,4 @@
-package com.biz.workqueue;
+package com.biz._02workqueue;
 
 import com.rabbitmq.client.*;
 
