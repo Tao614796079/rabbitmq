@@ -1,4 +1,4 @@
-package com.biz;
+package com.biz.helloworld;
 
 import com.rabbitmq.client.*;
 
